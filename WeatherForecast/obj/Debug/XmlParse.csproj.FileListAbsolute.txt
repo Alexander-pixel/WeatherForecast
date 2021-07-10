@@ -1,0 +1,5 @@
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/XmlParse/XmlParse/bin/Debug/XmlParse.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/XmlParse/XmlParse/bin/Debug/XmlParse.pdb
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/XmlParse/XmlParse/obj/Debug/XmlParse.csprojAssemblyReference.cache
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/XmlParse/XmlParse/obj/Debug/XmlParse.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/XmlParse/XmlParse/obj/Debug/XmlParse.pdb

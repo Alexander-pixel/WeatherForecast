@@ -1,0 +1,5 @@
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/XmlParse/WeatherForecast/bin/Debug/WeatherForecast.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/XmlParse/WeatherForecast/bin/Debug/WeatherForecast.pdb
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/XmlParse/WeatherForecast/obj/Debug/WeatherForecast.csprojAssemblyReference.cache
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/XmlParse/WeatherForecast/obj/Debug/WeatherForecast.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/XmlParse/WeatherForecast/obj/Debug/WeatherForecast.pdb
